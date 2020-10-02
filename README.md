@@ -1,4 +1,4 @@
-# hola-mundo
+# HOLA MUNDO
 mi repositorio de prueba
 
 Autor. Raul Eduardo Gonzalez 
